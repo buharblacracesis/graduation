@@ -1,9 +1,18 @@
 # graduation
 ## açıklamalar
-1. Bu bir web sitesidir.
-2. Flask kütüphanesi ile geliştirilmiştir.
-3. 3 htmlden oluşmuştur.
-4. Bir bölümü bilgi içerikli , bir bölümü oyun , bir bölümü videodan oluşmaktadır.
-5. Şimdiki gençlerin diline uygun yazılmıştır.
-6. Oyunun tek kuralı iklim değişikliğini arttıracak bir şey yapmamak.
-7. Videolar gençlerin anlayacağı ve espirili şekilde yapılmıştır.
+1. Bu bir Discord botudur.
+2. İklim değişikliği ile alakalıdır .
+3. Soracağınız sorular şu şekildedir;
+. $iklimdeğişikliğinedir
+. $nasılönleyebiliriz
+. $önerdiğinvideolarvarmı
+. $iklimdeğişikliğinindoğalnedenlerinelerdir
+. $iklimdeğişikliğininyapaynedenlerinelerdir
+. $iklimdeğişikliğinelereyolaçar
+. $önerdiğinbirwebsitesivarmı
+4. Kullanımınızda eğlenceler.
+
+
+
+
+
